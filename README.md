@@ -136,7 +136,7 @@ The implementation includes:
 - `docs/lomikont_L110_specification.jpg`
 
 ### Illustrations
-![Lomikont algorithm](images/lomikont/lomikont_algorithm_flowchart.png)
+![Lomikont algorithm](images/lomikont/lomikont_algorithm_flowchart.jpg)
 
 ---
 
