@@ -1,5 +1,4 @@
-
-## Quick Navigation
+## Quick Navigation <a name="quick-navigation"></a>
 
 - 🇬🇧 [English version](#control-of-discrete-outputs-of-industrial-plc-controllers)
 - 🇺🇦 [Українська версія](#українська-версія)
@@ -372,6 +371,8 @@ For each controller, the corresponding algorithm, technical documentation, wirin
 
 The results show that all three controllers provide reliable control of discrete outputs, while each platform has its own advantages depending on the task and industrial context.
 
+
+[⬆ Back to top](#quick-navigation)
 ---
 
 # Українська версія
@@ -608,3 +609,5 @@ The results show that all three controllers provide reliable control of discrete
 Для кожного контролера було розроблено алгоритм керування, підготовлено технічну документацію, схеми комутації, блок-схеми та користувацькі настанови.
 
 Усі три контролери показали надійність і ефективність, але кожен з них має власні переваги залежно від конкретної задачі автоматизації.
+
+[⬆ Back to top](#quick-navigation)
