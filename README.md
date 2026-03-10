@@ -219,9 +219,9 @@ These screens allow testing of controller behavior for all three modes.
 
 ### Illustrations
 
-![PLC154 ST flowchart](images/plc154/plc154_algorithm_st.png)
-![PLC154 FBD flowchart](images/plc154/plc154_algorithm_fbd.png)
-![PLC154 FBD program](images/plc154/plc154_fbd_program_1.png)
+![PLC154 ST flowchart](images/plc154/plc154_algorithm_st.jpg)
+![PLC154 FBD flowchart](images/plc154/plc154_algorithm_fbd.jpg)
+![PLC154 FBD program](images/plc154/plc154_fbd_program_1.jpg)
 ![PLC154 inputs screen](images/plc154/plc154_inputs_screen.png)
 ![PLC154 outputs screen](images/plc154/plc154_outputs_screen.png)
 
@@ -260,7 +260,7 @@ The following codes were formed for operating modes:
 
 ### Illustrations
 
-![MIK-51 algorithm](images/mik51/mik51_algorithm_flowchart.png)
+![MIK-51 algorithm](images/mik51/mik51_algorithm_flowchart.jpg)
 ![MIK-51 conditions](images/mik51/mik51_algorithm_conditions.png)
 ![MIK-51 actions](images/mik51/mik51_algorithm_actions.png)
 
@@ -467,7 +467,7 @@ The results show that all three controllers provide reliable control of discrete
 
 ### Ілюстрації
 
-![Блок-схема Ломіконт](images/lomikont/lomikont_algorithm_flowchart.png)
+![Блок-схема Ломіконт](images/lomikont/lomikont_algorithm_flowchart.jpg)
 
 ---
 
@@ -503,9 +503,9 @@ The results show that all three controllers provide reliable control of discrete
 
 ### Ілюстрації
 
-![Алгоритм ST](images/plc154/plc154_algorithm_st.png)
-![Алгоритм FBD](images/plc154/plc154_algorithm_fbd.png)
-![Програма FBD](images/plc154/plc154_fbd_program_1.png)
+![Алгоритм ST](images/plc154/plc154_algorithm_st.jpg)
+![Алгоритм FBD](images/plc154/plc154_algorithm_fbd.jpg)
+![Програма FBD](images/plc154/plc154_fbd_program_1.jpg)
 ![Екран inputs](images/plc154/plc154_inputs_screen.png)
 ![Екран outputs](images/plc154/plc154_outputs_screen.png)
 
@@ -535,7 +535,7 @@ The results show that all three controllers provide reliable control of discrete
 
 ### Ілюстрації
 
-![Блок-схема МІК-51](images/mik51/mik51_algorithm_flowchart.png)
+![Блок-схема МІК-51](images/mik51/mik51_algorithm_flowchart.jpg)
 ![Умовна частина](images/mik51/mik51_algorithm_conditions.png)
 ![Виконавча частина](images/mik51/mik51_algorithm_actions.png)
 
