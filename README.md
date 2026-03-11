@@ -220,7 +220,7 @@ These screens allow testing of controller behavior for all three modes.
 
 ![PLC154 ST flowchart](images/plc154/plc154_algorithm_st.jpg)
 ![PLC154 FBD flowchart](images/plc154/plc154_algorithm_fbd.jpg)
-![PLC154 FBD program](images/plc154/plc154_fbd_program_1.jpg)
+![PLC154 FBD program](images/plc154/plc154_fbd_program_1.png)
 ![PLC154 inputs screen](images/plc154/plc154_inputs_screen.png)
 ![PLC154 outputs screen](images/plc154/plc154_outputs_screen.png)
 
@@ -506,7 +506,7 @@ The results show that all three controllers provide reliable control of discrete
 
 ![Алгоритм ST](images/plc154/plc154_algorithm_st.jpg)
 ![Алгоритм FBD](images/plc154/plc154_algorithm_fbd.jpg)
-![Програма FBD](images/plc154/plc154_fbd_program_1.jpg)
+![Програма FBD](images/plc154/plc154_fbd_program_1.png)
 ![Екран inputs](images/plc154/plc154_inputs_screen.png)
 ![Екран outputs](images/plc154/plc154_outputs_screen.png)
 
